@@ -258,7 +258,7 @@ export default function App() {
       <header style={styles.header}>
         <div style={styles.headerTop}>
           <div>
-            <div style={styles.eyebrow}>REGISTRO COMUNITARIO · TERREMOTO CHOCÓ, AGO 2026</div>
+            <div style={styles.eyebrow}>REGISTRO COMUNITARIO · TERREMOTO COLOMBIA, AGO 2026</div>
             <h1 style={styles.title}>Buscando y Encontrados</h1>
           </div>
         </div>
